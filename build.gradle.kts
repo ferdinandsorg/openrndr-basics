@@ -34,7 +34,7 @@ val orxVersion = if (orxUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.42"
 // orx-integral-image, orx-interval-tree, orx-jumpflood, orx-kdtree, orx-mesh-generators,orx-midi, orx-no-clear,
 // orx-noise, orx-obj, orx-olive, orx-osc, orx-palette
 
-val orxFeatures = setOf("orx-noise")
+val orxFeatures = setOf("orx-noise", "orx-kinect-v1")
 
 enum class Logging {
     NONE,
