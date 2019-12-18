@@ -23,6 +23,8 @@ fun main() = application {
 
         }
 
+
+        // -- press again
         keyboard.keyDown.listen {
 
             if (it.key == KEY_ARROW_UP) {
@@ -35,6 +37,7 @@ fun main() = application {
 
         }
 
+        // -- press and hold
         keyboard.keyRepeat.listen {
 
             if (it.key == KEY_ARROW_RIGHT) {

@@ -1,7 +1,5 @@
 import org.openrndr.application
-import org.openrndr.color.ColorRGBa
-import org.openrndr.draw.*
-import org.openrndr.ffmpeg.FFMPEGVideoPlayer
+import org.openrndr.draw.renderTarget
 import org.openrndr.ffmpeg.VideoPlayerFFMPEG
 
 fun main() = application {

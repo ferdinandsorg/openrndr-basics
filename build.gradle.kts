@@ -28,13 +28,13 @@ val panelUseSnapshot = false
 val panelVersion = if (panelUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.18"
 
 val orxUseSnapshot = false
-val orxVersion = if (orxUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.42"
+val orxVersion = if (orxUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.43"
 
 // supported features are: orx-camera, orx-compositor,orx-easing, orx-filter-extension,orx-file-watcher,
 // orx-integral-image, orx-interval-tree, orx-jumpflood, orx-kdtree, orx-mesh-generators,orx-midi, orx-no-clear,
 // orx-noise, orx-obj, orx-olive, orx-osc, orx-palette
 
-val orxFeatures = setOf("orx-noise", "orx-kinect-v1")
+val orxFeatures = setOf("orx-noise", "orx-midi", "orx-osc", "orx-kinect-v1", "orx-runway")
 
 enum class Logging {
     NONE,
@@ -77,6 +77,9 @@ dependencies {
     compile("org.jetbrains.kotlinx", "kotlinx-coroutines-core","1.3.0")
 
     compile("io.github.microutils", "kotlin-logging","1.7.6")
+
+    // get json
+    compile("com.google.code.gson:gson:2.8.5")
 
     when(applicationLogging) {
         Logging.NONE -> {
