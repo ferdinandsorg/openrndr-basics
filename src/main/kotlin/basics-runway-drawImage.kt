@@ -14,12 +14,17 @@ fun main() = application {
 
     program {
 
-//        extend(ScreenRecorder())
+        extend(ScreenRecorder())
 
         val rt = renderTarget(900, 600) {
             colorBuffer()
-            drawer.background(ColorRGBa.WHITE)
         }
+
+        drawer.isolatedWithTarget(rt) {
+            drawer.background(ColorRGBa.TRANSPARENT)
+        }
+
+
 
         var isClicked = false
 
@@ -90,6 +95,7 @@ fun main() = application {
             drawer.stroke = null
 
             drawer.isolatedWithTarget(rt) {
+
                 drawer.ortho(rt)
 
                 drawer.fill = color
@@ -109,7 +115,6 @@ fun main() = application {
 
             // draw canvas
             drawer.image(rt.colorBuffer(0))
-
 
             // cursor
             drawer.isolated {

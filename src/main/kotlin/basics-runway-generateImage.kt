@@ -23,7 +23,7 @@ fun main() = application {
 
         val font = loadFont("data/fonts/IBMPlexMono-Regular.ttf", 18.0)
 
-        val inputText = "A yellow car in the nature."
+        val inputText = "a person sitting"
 
         extend {
 

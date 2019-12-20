@@ -9,19 +9,23 @@ import org.openrndr.shape.Rectangle
 
 fun main() = application {
     configure {
-        width = 900 * 2
-        height = 900
+        width = 640
+        height = 1138
     }
 
     program {
 
 //        extend(ScreenRecorder())
 
-        val imageInput = loadImage("data/images/hi-example.jpg")
+        val imageInput = loadImage("data/images/hi-example_3.jpg")
+
+        val scaleFactor = width/imageInput.width.toDouble()
 
         val rt = renderTarget(imageInput.width, imageInput.height) {
             colorBuffer()
         }
+
+
 
 //        val videoInput = VideoPlayerFFMPEG.fromFile("data/videos/video-example-900x600.mp4")
 //        videoInput.play()
@@ -46,6 +50,7 @@ fun main() = application {
                     runwayQuery("http://localhost:8000/query", PsenetRequest(rt.colorBuffer(0).toData()))
             }
 
+
             detectionResult?.let { result ->
 
                 val detectedText = result.bboxes
@@ -60,6 +65,10 @@ fun main() = application {
                     val w = (bbox[2] * imageInput.width) - x
                     val h = (bbox[3] * imageInput.height) - y
 
+//                println("x is $x, y is $y, w is $w, h is $h")
+
+//                var mouseX = map(0.0, width.toDouble(), 0.0, detectedText.size.toDouble(), mouse.position.x).toInt()
+
                     val t = seconds.toInt() % detectedText.size
 
                     if (index == t) {
@@ -69,11 +78,14 @@ fun main() = application {
                         drawer.image(
                             rt.colorBuffer(0),
                             Rectangle(x, y, w, h),
-                            Rectangle(1350.0 - (w / 2.0), 450.0 - (h / 2.0), w, h)
+                            Rectangle(width/2.0 - (w / 2.0), imageInput.height + ((height - imageInput.height)/2) - (h / 2.0), w, h)
                         )
-
                     }
+
+
+//                println("_____________________")
                 }
+
 
             }
 
