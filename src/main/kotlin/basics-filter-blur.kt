@@ -3,7 +3,7 @@ import org.openrndr.color.ColorRGBa
 import org.openrndr.draw.colorBuffer
 import org.openrndr.draw.isolatedWithTarget
 import org.openrndr.draw.renderTarget
-import org.openrndr.filter.blur.BoxBlur
+import org.openrndr.extra.fx.blur.BoxBlur
 
 fun main() = application {
     // 4:3

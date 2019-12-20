@@ -25,7 +25,7 @@ fun main() = application {
 
         extend {
 
-            val result: gpt2Result = runwayQuery("http://localhost:8000/query", gpt2Request(inputText))
+            val result: Gpt2Result = runwayQuery("http://localhost:8000/query", Gpt2Request(inputText))
 
             val text = result.text
 

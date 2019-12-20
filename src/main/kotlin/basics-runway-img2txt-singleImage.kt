@@ -4,8 +4,8 @@ import org.openrndr.draw.isolatedWithTarget
 import org.openrndr.draw.loadFont
 import org.openrndr.draw.loadImage
 import org.openrndr.draw.renderTarget
-import org.openrndr.extra.runway.im2txtRequest
-import org.openrndr.extra.runway.im2txtResult
+import org.openrndr.extra.runway.Im2txtRequest
+import org.openrndr.extra.runway.Im2txtResult
 import org.openrndr.extra.runway.runwayQuery
 import org.openrndr.extra.runway.toData
 import org.openrndr.shape.Rectangle
@@ -38,7 +38,7 @@ fun main() = application {
             // source Image
             drawer.image(rt.colorBuffer(0), 0.0, 0.0)
 
-            val result: im2txtResult = runwayQuery("http://localhost:8000/query", im2txtRequest(rt.colorBuffer(0).toData()))
+            val result: Im2txtResult = runwayQuery("http://localhost:8000/query", Im2txtRequest(rt.colorBuffer(0).toData()))
 
             val text = result.caption
 

@@ -44,7 +44,7 @@ fun main() = application {
             // source Image
             drawer.image(rt.colorBuffer(0), 0.0, 0.0)
 
-            val result: im2txtResult = runwayQuery("http://localhost:8000/query", im2txtRequest(rt.colorBuffer(0).toData()))
+            val result: Im2txtResult = runwayQuery("http://localhost:8000/query", Im2txtRequest(rt.colorBuffer(0).toData()))
 
             val text = result.caption
 
