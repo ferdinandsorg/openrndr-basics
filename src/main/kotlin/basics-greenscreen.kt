@@ -1,10 +1,8 @@
 import org.openrndr.application
 import org.openrndr.color.ColorRGBa
 import org.openrndr.draw.*
-import org.openrndr.ffmpeg.FFMPEGVideoPlayer
-import org.openrndr.ffmpeg.ScreenRecorder
 import org.openrndr.ffmpeg.VideoPlayerFFMPEG
-import org.openrndr.filter.blend.passthrough
+import org.openrndr.ffmpeg.ScreenRecorder
 import org.openrndr.math.map
 import org.openrndr.shape.Rectangle
 import java.nio.ByteBuffer
