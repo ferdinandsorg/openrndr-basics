@@ -1,4 +1,5 @@
 import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import org.openrndr.application
 import org.openrndr.color.ColorRGBa
 import org.openrndr.draw.isolated
@@ -12,18 +13,19 @@ fun main() = application {
         height = 720
     }
     
-    // -- get JSON File
+    // -- get JSON File and transform it into a List
     val gson = Gson()
-    val jsonString = File("data/data.json").readText()
-    val listOfRectangles = gson.fromJson(jsonString, FrameRect::class.java)
+    val jsonString = File("data/json/data.json").readText()
+    val typeToken = object : TypeToken<List<Frame>>() {}
+    val listOfRectangles = gson.fromJson<List<Frame>>(jsonString, typeToken.type)
 
 
     program {
         // -- load Font
         val font = loadFont("data/fonts/IBMPlexMono-Regular.ttf", 18.0)
 
-        val firstFrame = listOfRectangles.frames[0].tic
-        val lastFrame = listOfRectangles.frames[listOfRectangles.frames.size - 1].tic
+        val firstFrame = listOfRectangles[0].tic
+        val lastFrame = listOfRectangles[listOfRectangles.size - 1].tic
 
 
         // -- Class File "Frame" and "FrameRect" is needed to run this Script
@@ -32,7 +34,7 @@ fun main() = application {
         extend {
             val mouseX = map(0.0, width.toDouble(), firstFrame.toDouble(), lastFrame.toDouble(), mouse.position.x).toInt()
 
-            listOfRectangles.frames.filter { it.tic == mouseX }.forEachIndexed { index, frame ->
+            listOfRectangles.filter { it.tic == mouseX }.forEachIndexed { index, frame ->
                 drawer.stroke = ColorRGBa.RED
                 drawer.fill = null
 

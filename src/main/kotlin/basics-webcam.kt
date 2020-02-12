@@ -19,7 +19,6 @@ fun main() = application {
 
         webcam.play()
 
-
         extend {
             drawer.background(ColorRGBa.BLACK)
 

@@ -1,13 +1,12 @@
 import org.openrndr.application
 import org.openrndr.color.ColorRGBa
-import org.openrndr.ffmpeg.ScreenRecorder
 import org.openrndr.math.Vector2
 import org.openrndr.math.map
 import org.openrndr.math.transforms.transform
-import org.openrndr.shape.*
+import org.openrndr.shape.Composition
+import org.openrndr.shape.ShapeContour
 import org.openrndr.svg.loadSVG
 import java.io.File
-import kotlin.math.sin
 
 fun main() = application {
 
@@ -20,8 +19,6 @@ fun main() = application {
     }
 
     program {
-
-//        extend(ScreenRecorder())
 
         val smileys = mutableListOf<Composition>()
 

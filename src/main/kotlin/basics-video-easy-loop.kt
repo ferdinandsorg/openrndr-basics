@@ -14,7 +14,7 @@ fun main() = application {
 
     program {
 
-        val video1 = VideoPlayerFFMPEG.fromFile("data/videos/video-example.mp4")
+        val video1 = VideoPlayerFFMPEG.fromFile("data/videos/video-example-1280x720.mp4")
         video1.play()
 
         val videoRT1 = renderTarget(1280, 720) {

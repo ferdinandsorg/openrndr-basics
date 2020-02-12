@@ -15,10 +15,10 @@ fun main() = application {
             for (y in 0 until 10) {
                 grid.add(
                     Rectangle(
-                        x * 45.0,
-                        y * 35.0,
-                        40.0,
-                        30.0
+                        x * 65.0,
+                        y * 49.0,
+                        55.0,
+                        39.0
                     )
                 )
             }

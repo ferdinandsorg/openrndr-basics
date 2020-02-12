@@ -1,4 +1,5 @@
 import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import org.openrndr.application
 import org.openrndr.color.ColorRGBa
 import org.openrndr.draw.loadFont
@@ -11,11 +12,11 @@ fun main() = application {
         windowResizable = true
     }
     
-    // -- get JSON File
+    // -- get JSON File and transform it into a List
     val gson = Gson()
     val jsonString = File("data/colors.json").readText()
-    val listOfColors = gson.fromJson(jsonString, ColorCode::class.java)
-
+    val typeToken = object : TypeToken<List<Colors>>() {}
+    val listOfColors = gson.fromJson<List<Colors>>(jsonString, typeToken.type)
 
     program {
         // -- load Font
@@ -26,7 +27,7 @@ fun main() = application {
             drawer.stroke = null
             drawer.fontMap = font
 
-            listOfColors.colors.forEachIndexed { index, i ->
+            listOfColors.forEachIndexed { index, i ->
 
                 val lineHeight = 26.0
                 val row = 26
@@ -40,10 +41,6 @@ fun main() = application {
         }
     }
 }
-
-data class ColorCode(
-    val colors: List<Colors>
-)
 
 data class Colors(
     val colorName: String,

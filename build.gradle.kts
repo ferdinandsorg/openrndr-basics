@@ -13,7 +13,7 @@ version = "0.3.6"
 val applicationMainClass = "TemplateProgramKt"
 
 val openrndrUseSnapshot = false
-val openrndrVersion = if (openrndrUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.36"
+val openrndrVersion = if (openrndrUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.39-rc.2" // 0.3.39-rc.1
 val openrndrOs = when (OperatingSystem.current()) {
     OperatingSystem.WINDOWS -> "windows"
     OperatingSystem.MAC_OS -> "macos"
@@ -25,16 +25,16 @@ val openrndrOs = when (OperatingSystem.current()) {
 val openrndrFeatures = setOf("video", "panel")
 
 val panelUseSnapshot = false
-val panelVersion = if (panelUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.18"
+val panelVersion = if (panelUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.20" // 0.3.21-rc.1
 
 val orxUseSnapshot = false
-val orxVersion = if (orxUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.43"
+val orxVersion = if (orxUseSnapshot) "0.4.0-SNAPSHOT" else "0.3.47-rc.3"
 
 // supported features are: orx-camera, orx-compositor,orx-easing, orx-filter-extension,orx-file-watcher,
 // orx-integral-image, orx-interval-tree, orx-jumpflood, orx-kdtree, orx-mesh-generators,orx-midi, orx-no-clear,
 // orx-noise, orx-obj, orx-olive, orx-osc, orx-palette
 
-val orxFeatures = setOf("orx-noise", "orx-midi", "orx-osc", "orx-kinect-v1", "orx-runway")
+val orxFeatures = setOf("orx-noise", "orx-midi", "orx-osc", "orx-kinect-v1", "orx-runway", "orx-fx", "orx-image-fit")
 
 enum class Logging {
     NONE,

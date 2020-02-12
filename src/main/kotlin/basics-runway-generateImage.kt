@@ -30,7 +30,7 @@ fun main() = application {
             drawer.fill = ColorRGBa.WHITE
             drawer.fontMap = font
 
-            val imgd: CaptionResult = runwayQuery("http://localhost:8000/query", CaptionRequest(inputText))
+            val imgd: AttnGANResult = runwayQuery("http://localhost:8000/query", AttnGANRequest(inputText))
 
             val outputImage = ColorBuffer.fromData(imgd.result)
 

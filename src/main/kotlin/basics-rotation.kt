@@ -1,9 +1,5 @@
-package examples.`05_Drawing_and_transformations`
-
 import org.openrndr.application
 import org.openrndr.color.ColorRGBa
-import org.openrndr.draw.BufferMultisample
-import org.openrndr.ffmpeg.ScreenRecorder
 
 fun main(args: Array<String>) {
     application {
@@ -17,17 +13,17 @@ fun main(args: Array<String>) {
                 drawer.fill = ColorRGBa.PINK
                 drawer.stroke = null
 
-                var x = 200.0
-                var y = 200.0
-                var rWidth = 100.0
-                var rHeight = 100.0
+                val w = 100.0
+                val h = 100.0
 
-                // -- translate
-//                drawer.translate(width/2.0, height/2.0)
+                // -- translate to the center
+                drawer.translate(width/2.0, height/2.0)
+
                 // -- rotate
-                drawer.rotate(seconds * x)
+                drawer.rotate(seconds * 200.0)
+
                 // -- rectangle around the origin
-                drawer.rectangle(-(rWidth/2), -(rHeight/2), rWidth, rHeight)
+                drawer.rectangle(-(w/2), -(h/2), w, h)
             }
         }
     }

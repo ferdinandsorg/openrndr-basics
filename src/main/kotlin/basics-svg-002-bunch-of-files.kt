@@ -18,8 +18,6 @@ fun main() = application {
 
     program {
 
-//        extend(ScreenRecorder())
-
         // -- load 100 SVG smileys in var smileys
         val smileys = mutableListOf<Composition>()
         for (i in 0 .. 99) {

@@ -1,18 +1,12 @@
 import org.openrndr.application
-import org.openrndr.color.ColorRGBa
-import org.openrndr.draw.*
+import org.openrndr.draw.loadImage
 import org.openrndr.shape.Rectangle
 
-
 fun main() = application {
-    val setWidth = 640
-    val setHeight = 480
-
     configure {
-        width = setWidth
-        height = setHeight
+        width = 640
+        height = 480
     }
-
 
     program {
 
@@ -23,7 +17,7 @@ fun main() = application {
 
             // draw image
             drawer.image(img,
-                Rectangle(0.0, 0.0, width.toDouble(), height.toDouble()), // original size
+                Rectangle(0.0, 0.0, 640.0, 480.0), // original size
                 Rectangle(0.0,0.0, 100.0, 75.0) // new size
             )
 

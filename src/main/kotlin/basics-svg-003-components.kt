@@ -18,8 +18,6 @@ fun main() = application {
 
     program {
 
-//        extend(ScreenRecorder())
-
         val smileyComposition: Composition = loadSVG(File("data/svg/smiley.svg").readText())
 
         extend {

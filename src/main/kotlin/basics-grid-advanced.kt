@@ -1,4 +1,6 @@
+import kotlinx.coroutines.delay
 import org.openrndr.animatable.Animatable
+import org.openrndr.animatable.easing.Easing
 import org.openrndr.application
 import org.openrndr.color.ColorRGBa
 import org.openrndr.math.Vector2
@@ -13,32 +15,44 @@ fun main() = application {
 
     program { // setup
 
-        var columnWidth = 10.0
-        var columnHeight = 10.0
-        var margin = 10.0
+        val rows = 10.0
+        val columns = 10.0
+        val margin = 10.0
+        val items = rows*columns
 
-        class RectGrid(var x: Double, var y: Double, var w: Double, var h: Double, var o: Double) : Animatable() {
+        class RectGrid(var x: Double, var y: Double, var w: Double, var h: Double, var o: Double, var count: Double) : Animatable() {
+
+            var setOpacity = this.o
 
             init {
-                this.update(Vector2(0.0,0.0))
+                this.update()
             }
 
-            fun update(mouse: Vector2) {
-//                columnWidth = mouse.x
+            val duration = 3000L
+
+            fun update() {
+                animate("o", 1.0, duration, Easing.CubicInOut)
+                delay(((count%items)*100).toLong())
+                animate("o", 0.0, duration, Easing.CubicInOut)
+                complete()
             }
+
         }
 
         val grid = mutableListOf<RectGrid>()
 
-        for (gX in 0 until columnWidth.toInt()) {
-            for (gY in 0 until columnHeight.toInt()) {
+        var count = 0.0
+
+        for (gX in 0 until rows.toInt()) {
+            for (gY in 0 until columns.toInt()) {
                 grid.add(
                     RectGrid(
-                        gX * (width/columnWidth) + margin,
-                        gY * (height/columnHeight) + margin,
-                        (width/columnWidth) - margin*2,
-                        (height/columnHeight)  - margin*2,
-                        Math.random()
+                        gX * (width/rows) + margin,
+                        gY * (height/columns) + margin,
+                        (width/rows) - margin*2,
+                        (height/columns)  - margin*2,
+                        Math.random(),
+                        count++
                     )
                 )
             }
@@ -48,17 +62,12 @@ fun main() = application {
             drawer.stroke = null
 
             grid.forEachIndexed { index, it ->
-                it.update(mouse.position)
                 it.updateAnimation()
+                it.update()
 
-
-
-                var newX = map(0.0,  width.toDouble(), it.x, mouse.position.x, mouse.position.x)
-                var newY = map(0.0, height.toDouble(), it.y, mouse.position.y, mouse.position.y)
 
                 drawer.fill = ColorRGBa.PINK.opacify(it.o)
-                drawer.rectangle(newX,it.y + newY,it.w,it.h)
-
+                drawer.rectangle(it.x, it.y, it.w, it.h)
             }
 
         }
