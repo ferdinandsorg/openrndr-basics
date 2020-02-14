@@ -14,7 +14,7 @@ fun main() = application {
     
     // -- get JSON File and transform it into a List
     val gson = Gson()
-    val jsonString = File("data/colors.json").readText()
+    val jsonString = File("data/json/colors.json").readText()
     val typeToken = object : TypeToken<List<Colors>>() {}
     val listOfColors = gson.fromJson<List<Colors>>(jsonString, typeToken.type)
 
