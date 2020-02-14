@@ -54,10 +54,10 @@ fun main() = application {
 
     program {
 
-        val movingRects = mutableListOf<Moving>()
+        val moveElements = mutableListOf<Moving>()
         for (x in 0 until 10) {
             for (y in 0 until 1) {
-                movingRects.add(Moving(x * 100.0, setHeight/2.0))
+                moveElements.add(Moving(x * 100.0, setHeight/2.0))
             }
         }
 
@@ -67,7 +67,7 @@ fun main() = application {
             drawer.stroke = null
             drawer.fill = ColorRGBa.PINK
 
-            movingRects.forEach { it
+            moveElements.forEach { it
                 it.updateAnimation()
                 it.update()
 
