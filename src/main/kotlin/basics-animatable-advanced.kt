@@ -8,8 +8,7 @@ fun main() = application {
     val setHeight = 800
 
     val countLimit = 5
-    val rectWidth = 100.0
-    val rectHeight = 50.0
+    val elementSize = 50.0
 
     configure {
         width = setWidth
@@ -35,7 +34,7 @@ fun main() = application {
             if (state1) {
                 if (!hasAnimations()) {
 
-                    animate("y", Math.random() * (setHeight - rectHeight), d, Easing.CubicInOut)
+                    animate("y", Math.random() * setHeight, d, Easing.CubicInOut)
                     complete {
                         count++
                     }
@@ -58,7 +57,7 @@ fun main() = application {
         val movingRects = mutableListOf<Moving>()
         for (x in 0 until 10) {
             for (y in 0 until 1) {
-                movingRects.add(Moving(x * 100.0, (height - (rectHeight/2))/2.0))
+                movingRects.add(Moving(x * 100.0, setHeight/2.0))
             }
         }
 
@@ -72,7 +71,7 @@ fun main() = application {
                 it.updateAnimation()
                 it.update()
 
-                drawer.rectangle(it.x, it.y, rectWidth, rectHeight)
+                drawer.circle(it.x, it.y, elementSize)
             }
 
         }
