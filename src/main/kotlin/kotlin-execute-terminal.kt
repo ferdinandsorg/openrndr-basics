@@ -8,7 +8,7 @@ fun main() = application {
 
     // -- get JSON File and transform it into a List
     val gson = Gson()
-    val jsonString = File("data/json/listOfVideos.json").readText()
+    val jsonString = File("data/json/allVideos-feb.json").readText()
     val typeToken = object : TypeToken<List<Videos>>() {}
     val listOfVideos = gson.fromJson<List<Videos>>(jsonString, typeToken.type)
 
@@ -18,7 +18,7 @@ fun main() = application {
         listOfVideos.forEachIndexed { index, i ->
             println(i.videoPath)
 
-            var a = Runtime.getRuntime().exec("/usr/local/bin/ffmpeg -i ${i.videoPath} -ss 00:00:00.00 -vframes 1 /Users/ferdinandsorg/Downloads/thumbnails/${index}.jpg")
+            var a = Runtime.getRuntime().exec("/usr/local/bin/ffmpeg -i ${i.videoPath} -ss 00:00:00.00 -vframes 1 /Users/ferdinandsorg/Downloads/thumbnails2/${index}.jpg")
 
             }
 

@@ -1,0 +1,3701 @@
+[
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/data/videos/video-example-1280x720.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/data/videos/video-example-900x600.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-11-16.45.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-11-16.50.54.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-11-17.54.17.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-13-10.16.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-13-14.57.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-13-18.35.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-18-14.35.36.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-18-17.02.06.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-10.43.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-10.52.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-10.57.11.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-10.58.04.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-12.44.53.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-12.55.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-15.26.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-16.31.06.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-16.58.21.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-17.09.30.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-17.09.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-17.10.24.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-17.13.25.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.10.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.12.25.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.12.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.13.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.13.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.14.27.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.17.53.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.18.11.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.19.47.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.39.34.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.39.54.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.40.04.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2019-12-20-18.41.28.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-11.37.44.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-11.40.41.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-11.46.04.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.05.03.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.06.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.07.04.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.07.53.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.08.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.08.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.09.31.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.09.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.10.55.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.12.06.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-14.12.25.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-15.31.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-basics/video/OPENRNDR-2020-02-03-15.32.49.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-13-11.36.24.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-13-12.00.06.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-11.58.28.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-12.32.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-16.41.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.05.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.16.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.18.07.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.18.53.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.19.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.19.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.20.11.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.20.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.24.47.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.25.24.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.25.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.26.18.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.26.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-14-17.40.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-25-16.55.28.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-25-16.55.51.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-25-17.00.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/openrndr-experiments/video/OPENRNDR-2020-02-26-15.29.15.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/rndr-kaspar/data/videos/vid-1.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/rndr-kaspar/video/program$1-2019-09-12-11.12.54.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/360-degree-camera-clip_1.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/360-degree-camera-clip_2.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/360-degree-camera-clip_3.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/360-degree-camera-clip_4.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/360-degree-camera-clip_5.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/background.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-move-2-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-move-2-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-move-circle-clockwise.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-move-circle-counterclockwise.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-move-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-move-linear-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-move-linear-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-move-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-sidebyside-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-view-from-back-left-2.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-view-from-back-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-view-from-back-right-2.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/camera-view-from-back-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/draw_bgcolor.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/example-360-skate.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/example-360.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/example-bulletshot.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/example-drone-360.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/example-road-sideview.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/example-road.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/flood-light-softbox.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/flood-light-spotlight.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/foreground.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/kinect-depth.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/kinect-rigidbody.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/kinect-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/realsense-infrared.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/realsense-infrared_640.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_rotating-camera-360f-red.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_rotating-camera-360f.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_rotating-camera.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_rotating_camera_360f_bg-draw.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_rotating_camera_360f_color-bg.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_rotating_camera_360f_rect.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_rotating_camera_360f_white.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_rotatinglight-colorlight.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_roundlight-leftCamera.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/setting_roundlight-rightCamera.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/shadow-example.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/shadow-merge.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/shadow-only-match-white.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/shadow-wall.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/softbox.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/softbox_v2.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/thermiographic-camera-example.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vid/vid-1.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vj/IMG_2937.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vj/IMG_3188.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vj/IMG_3205.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vj/kinect-points-2.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vj/kinect-points.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vj/stairs.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vj/tallinn.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/data/vj/wall.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.21.12-shadeStyle-mouseControl.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.23.47-shadeStyle-random.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.25.40-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.26.51-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.27.44-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.29.09-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.33.00-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.37.02-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.37.24-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.38.18-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.38.42-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.38.59-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.39.22-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.39.58-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.40.24-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.41.06-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.41.58-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.44.18-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.44.33-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.45.20-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.45.40-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.45.56-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.53.25-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-12.53.35-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.00.26-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.00.54-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.02.08-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.02.29-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.03.15-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.04.35-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.05.09-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.07.36-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.08.02-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-13.08.25-shadeStyle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-14.53.54-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-17.13.44-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-17.14.11-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-17.17.11-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-17.22.58-shadeStyle-in-video-valueLinear.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-06-17.23.54-shadeStyle-in-video-simplex.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-09.37.28-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.16.11-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.18.51-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.20.43-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.21.49-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.22.35-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.25.42-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.26.06-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.29.59-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-08-12.35.55-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-09.42.37-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-09.43.49-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-10.43.44-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-10.51.17-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-10.56.31-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-10.59.22-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.00.01-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.00.43-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.01.42-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.05.48-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.27.48-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.30.20-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.30.59-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.32.45-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.33.18-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.34.34-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-11.35.08-walk-in-circle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-12.48.36-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-12.56.11-gradient-follows-shadow.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-12.57.15-gradient-follows-shadow.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-14.49.46-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-14.54.03-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-15.12.31-gradient-follows-shadow.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-11-15.16.27-gradient-follows-shadow.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-12-17.44.53-video-in-circle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-11-12-18.14.02-video-in-circle.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-15.23.42-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-15.24.04-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-15.24.32-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-15.25.21-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-15.26.47-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-15.28.27-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-15.30.25-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-15.32.08-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-16.57.30-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-03-17.36.32-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-09.59.40-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.06.33-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.10.41-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.12.10-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.12.53-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.13.37-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.16.34-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.16.35-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.17.04-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.18.07-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.19.24-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.27.13-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.28.24-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.29.30-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-10.31.02-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-11.54.36-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-04-15.35.13-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-15.56.07-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-15.57.54-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-17.03.09-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-17.04.19-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-17.04.49-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-17.05.29-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-17.06.40-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-17.07.25-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-18.15.36-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-18.20.56-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-18.27.19-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-18.28.54-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-18.30.58-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-18.33.10-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-05-18.35.47-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-06-16.36.55-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-06-17.08.07-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-06-17.08.47-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-06-17.09.16-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2019-12-10-12.30.52-shadeStyle-in-video.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/2020-01-14-09.50.45-vj.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/IR light test-2019-12-16-12.07.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/IR light test-2019-12-16-14.11.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-12.16.19.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-12.21.36.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-14.50.56.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.08.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.10.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.10.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.11.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.14.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.33.27.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.36.01.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.41.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-15.53.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.06.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.09.28.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.14.17.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.15.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.15.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.20.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.20.20.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.20.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-16.21.27.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-17.54.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-03-18.13.53.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-11.29.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-11.39.24.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-11.59.28.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-12.23.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-12.27.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-13.46.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-14.18.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-15.16.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-15.17.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-15.27.41.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-15.31.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-16.31.43.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-16.32.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-16.34.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-17.09.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-17.11.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-17.15.07.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-17.21.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-04-17.24.30.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-07-11.12.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-07-12.43.09.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-07-13.17.21.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-07-15.05.41.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-07-15.33.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-07-16.43.21.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-15.03.09.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-15.15.22.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-15.34.17.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-15.37.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-15.55.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-16.06.43.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-16.35.05.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-16.36.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-16.36.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-17.51.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-08-18.00.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-10.52.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-11.38.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-11.44.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-11.53.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-11.54.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-11.56.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-11.57.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-11.58.20.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-12.02.22.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-12.10.47.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-12.23.34.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-12.53.32.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-12.56.17.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-14.15.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-14.24.43.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-14.28.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-09-16.15.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-16.08.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-16.12.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.05.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.05.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.06.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.07.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.08.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.09.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.10.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.11.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.12.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.13.56.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.14.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-10-17.15.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-11-10.04.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-11-13.55.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-11-13.56.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-11-13.59.34.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-10.43.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-13.39.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-14.47.51.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-14.50.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-15.37.15.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-15.39.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-16.07.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-16.20.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-17.06.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-17.11.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-17.52.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-14-17.58.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-15-17.29.04.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-15-17.30.09.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-16-09.40.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-16-13.49.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-16-16.30.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-16-16.34.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-16-16.46.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-16-16.51.25.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-11.00.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.23.53.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.24.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.24.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.26.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.26.48.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.27.20.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.30.17.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.31.08.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.33.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.50.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-15.56.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.02.25.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.07.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.08.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.12.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.15.21.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.17.04.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.19.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.27.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.31.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.34.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.35.15.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.36.54.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.38.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.48.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-16.50.40.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-17.37.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-17-17.41.41.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-18-09.47.15.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-18-16.01.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-23-17.52.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-23-17.54.05.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-25-15.06.54.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-28-14.35.55 - moving webcam.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-28-14.39.51 - moving kinect.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-28-17.00.27 - moving 2webcam.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-29-16.53.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-29-16.56.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-29-17.05.54.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-29-17.07.30.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-29-17.23.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-10-29-17.31.32.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-04-11.10.43.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-04-13.57.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-04-16.59.40.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-09.48.24.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-09.57.55.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-10.46.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-13.53.11.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-14.38.30.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-15.00.11.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-15.01.07.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-15.01.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-15.03.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-15.03.22.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-15.04.26.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-05-15.05.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-26-13.50.34.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-28-12.31.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-11-29-11.36.18.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-04-14.25.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-04-14.26.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-06-16.42.25.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-06-16.56.26.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-06-17.00.56.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-12.35.18.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-12.59.34.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.05.07.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.07.54.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.11.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.12.22.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.50.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.52.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.53.56.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.57.11.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-13.59.01.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-14.05.24.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/OPENRNDR-2019-12-18-14.07.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-05-17.11.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-10-14.03.49.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-10-14.04.19.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-10-14.04.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-10-14.05.26.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-10-14.05.43.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-10-14.08.01.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.30.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.31.36.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.34.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.35.04.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.35.48.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.36.22.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.38.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.39.56.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.40.48.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.41.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.41.44.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.42.07.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.42.26.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.42.40.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.43.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.45.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/vj-2020-01-14-09.51.49.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/workshop-generative-identities/moviedots-001/data/pp-01.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/workshop-generative-identities/moviedots-002/data/pp-01.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/research/blend-silouetts.mov"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/research/morph-silouetts.mov"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Documents/GitHub/solid-geographies/video/shadeStyle-in-video-2019-12-16-12.45.14_v2.mov"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Downloads/OPENRNDR-2019-09-27-17.09.48.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Downloads/OPENRNDR-2019-10-23-17.14.54.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Downloads/program$1-2019-09-27-17.30.24.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Downloads/videoplaydemo2/40521892_307900659986263_2889262476005053023_n.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Downloads/File from iOS (1).MOV"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/Downloads/File from iOS (2).MOV"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/rndr-kaspar/data/videos/vid-1.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/rndr-kaspar/video/OPENRNDR-2019-10-02-18.01.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/rndr-kaspar/video/OPENRNDR-2019-10-02-18.05.19.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/rndr-kaspar/video/OPENRNDR-2019-10-02-18.06.21.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/rndr-kaspar/video/OPENRNDR-2019-10-02-18.08.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/cinema/camera-view-from-back-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/360-degree-camera-clip_1.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/360-degree-camera-clip_2.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/360-degree-camera-clip_3.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/360-degree-camera-clip_4.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-move-2-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-move-2-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-move-circle-clockwise.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-move-circle-counterclockwise.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-move-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-move-linear-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-move-linear-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-move-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-sidebyside-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-view-from-back-left-2.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-view-from-back-left.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-view-from-back-right-2.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/camera-view-from-back-right.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/draw_bgcolor.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_rotating-camera-360f-red.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_rotating-camera-360f.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_rotating-camera.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_rotating_camera_360f_bg-draw.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_rotating_camera_360f_color-bg.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_rotating_camera_360f_rect.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_rotating_camera_360f_white.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_rotatinglight-colorlight.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_roundlight-leftCamera.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/setting_roundlight-rightCamera.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/data/vid/vid-1.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-12.16.19.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-12.21.36.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-14.50.56.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.08.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.10.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.10.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.11.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.14.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.33.27.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.36.01.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.41.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-15.53.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.06.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.09.28.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.14.17.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.15.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.15.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.20.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.20.20.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.20.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-16.21.27.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-17.54.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-03-18.13.53.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-11.29.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-11.39.24.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-11.59.28.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-12.23.59.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-12.27.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-13.46.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-14.18.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-15.16.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-15.17.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-15.27.41.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-15.31.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-16.31.43.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-16.32.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-16.34.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-17.09.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-17.11.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-17.15.07.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-17.21.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-04-17.24.30.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-07-11.12.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-07-12.43.09.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-07-13.17.21.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-07-15.05.41.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-07-15.33.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-07-16.43.21.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-15.03.09.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-15.15.22.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-15.34.17.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-15.37.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-15.55.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-16.06.43.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-16.35.05.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-16.36.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-16.36.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-17.51.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-08-18.00.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-10.52.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-11.38.39.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-11.44.14.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-11.53.16.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-11.54.58.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-11.56.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-11.57.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-11.58.20.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-12.02.22.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-12.10.47.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-12.23.34.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-12.53.32.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-12.56.17.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-14.15.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-14.24.43.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-14.28.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-09-16.15.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-16.08.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-16.12.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.05.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.05.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.06.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.07.02.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.08.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.09.52.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.10.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.11.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.12.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.13.56.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.14.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-10-17.15.57.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-11-10.04.13.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-11-13.55.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-11-13.56.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-11-13.59.34.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-10.43.12.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-13.39.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-14.47.51.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-14.50.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-15.37.15.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-15.39.29.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-16.07.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-16.20.38.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-17.06.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-17.11.23.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-17.52.46.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-14-17.58.37.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-15-17.29.04.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-15-17.30.09.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-16-09.40.10.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-16-13.49.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-16-16.30.00.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-16-16.34.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-16-16.46.45.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-16-16.51.25.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-16-16.53.50.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-16-17.57.33.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-17-09.31.42.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-17-09.36.35.mp4"
+  },
+  {
+    "videoPath": "/Users/ferdinandsorg/IdeaProjects/solid-geographies/video/OPENRNDR-2019-10-17-09.40.13.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/after work/human immortalize/human_immortalize_.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/after work/vj-export/2019-12-05-18.15.36-vj.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/after work/vj-export/2019-12-05-18.20.56-vj.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/after work/vj-export/2019-12-05-18.27.19-vj.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/after work/vj-export/2019-12-05-18.28.54-vj.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/after work/vj-export/2019-12-05-18.30.58-vj.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/after work/vj-export/2019-12-05-18.33.10-vj.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/after work/vj-export/2019-12-05-18.35.47-vj.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/gezicht_wassen_animatie.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/gezicht_wassen_video.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/haar_kammen_animatie.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/haar_kammen_video.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/handdoek_animatie.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/handdoek_video.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/kunstgebit_animatie.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/kunstgebit_video.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/scheren_animatie.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/scheren_video.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/tandenpoetsen_animatie.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/ipad_size-export/tandenpoetsen_video.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/export/v1-exhibition.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/export/v1-process.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/export/v2-process camera.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/export/v2-process draw.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/export/v3-process camera.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/export/v3-process draw.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/20200109_161235.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/20200109_161525.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/20200109_163007.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/20200109_163057.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/20200109_163209.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/20200109_163253.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-14.04.27.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-14.06.25.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-14.07.12.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-14.10.23.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-14.33.13.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-14.46.14.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-15.11.38.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-15.20.28.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-15.29.12.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-15.49.22.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-15.52.37.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Danielle/OPENRNDR-2020-01-07-16.24.17.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-07-14.11.39.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-07-14.53.28.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-07-15.02.14.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-13.55.50.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-13.57.29.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.00.22.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.01.00.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.01.28.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.01.51.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.02.34.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.03.21.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.03.59.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.07.37.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.19.27.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Hilal/OPENRNDR-2020-01-08-14.30.04.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Jenny/OPENRNDR-2020-01-07-14.56.36.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Jenny/OPENRNDR-2020-01-07-16.03.07.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Jenny/OPENRNDR-2020-01-07-16.25.48.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Jenny/OPENRNDR-2020-01-07-17.36.47.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Petra/OPENRNDR-2020-01-07-14.09.57.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Petra/OPENRNDR-2020-01-07-14.29.08.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Petra/OPENRNDR-2020-01-07-14.42.56.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Petra/OPENRNDR-2020-01-07-15.38.33.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Petra/OPENRNDR-2020-01-08-10.57.47.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Petra/OPENRNDR-2020-01-08-10.59.24.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Petra/OPENRNDR-2020-01-08-14.35.59.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Petra/OPENRNDR-2020-01-09-10.41.41.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-14.09.18.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-14.12.00.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-15.03.53.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-15.06.03.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-15.45.13.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-15.48.57.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-15.49.46.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-16.12.20.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-16.14.20.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-16.16.56.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-16.17.20.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-16.17.54.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-07-16.20.16.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-08-09.20.47.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-08-10.41.00.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-08-10.44.54.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-08-13.30.29.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Radina/OPENRNDR-2020-01-08-14.05.26.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-07-14.34.22.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-08-10.39.40.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-08-10.42.38.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-08-10.49.12.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-08-10.50.46.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-08-11.00.06.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-08-11.42.49.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-08-11.53.56.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/KABK TechWeek 2020/footage/openrndr video dump/Sophie/OPENRNDR-2020-01-08-13.48.53.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/OPENRNDR-2019-09-27-17.09.48.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/OPENRNDR-2019-10-23-17.14.54.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/reflector-process.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-09-17.49.42.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-14.05.44.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-14.14.45.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-14.17.22.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-14.18.47.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-15.12.43.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-15.30.59.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-15.34.18.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-15.36.02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-15.38.29.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-10-18.29.27.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-11-11.20.47.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-11-15.09.25.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-11-18.38.45.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-11-18.43.02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-12-09.24.58.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-12-09.28.46.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-12-09.30.41.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-12-11.12.54.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-12-11.50.32.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-12-12.33.33.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-12-16.43.49.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-12-18.23.53.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-13-09.30.16.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-13-11.03.22.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-13-17.24.02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-13-17.24.55.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-13-18.15.02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-13-18.24.28.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-26-15.18.28.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-26-15.20.08.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-27-17.30.24.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-27-17.36.34.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-27-17.37.45.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-27-17.59.26.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/program$1-2019-09-30-10.08.15.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/OpenRNDR/data/video/Hyper-short.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/OpenRNDR/data/video/video-1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/OpenRNDR/data/video/video-2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/OpenRNDR/data/video/video-3.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/OpenRNDR/data/video/video-4.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/openrndr-x-boofcv/data/background/street_intersection.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-documentary-1stCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-documentary-2ndCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-documentary-3rdCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-documentary-4thCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-documentary-5thCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-documentary-6thCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-documentary-7thCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-documentary-8thCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-loop-1stCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/export/reflector-loop-2ndCut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Screenrecording/Reflector-2019-12-05-16.31.26.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/shadowdraw/data/videos/5.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/shadowdraw/data/videos/cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/shadowdraw/data/videos/ir-light-test.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/shadowdraw/video/OPENRNDR-2019-11-14-12.36.27.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-ratating-view.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-left.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-move-2-right.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-move-circle-clockwise.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-move-circle-counterclockwise.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-move-left.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-move-linear-left.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-move-linear-right.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-move-right.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-sidebyside-right.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-view-from-back-from-back.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-view-from-back-left.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-view-from-back-right.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-view-from-back.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_4cameras-on-4walls-onewalkthrought-eyes.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_4cameras-on-4walls-onewalkthrought-neutral-perspective.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_4cameras-on-4walls-onewalkthrought.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_4cameras-on-4wallsc4d.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotating camera 360f 2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotating camera 360f 2_1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotating camera 360f-red.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotating camera 360f.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotating camera and light.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotating camera.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotatinglight-leftCamera.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotatinglight-rightCamera.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_rotatinglight.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/setting_strobolight.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/tex/camera-ratating-view.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/tex/camera-view-from-back.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/tex/setting_rotating_camera_360f_rect.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/tex/vid-1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/flood-light-softbox-behind-surface.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/flood-light-spotlight-behind-surface.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/IR Example 2019-12-05 15-21-25.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/IR Example 2019-12-05 15-24-36.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/IR Example 2019-12-05 15-31-37.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/IR Example 2019-12-05 15-34-19.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/IR Example 2019-12-05 16-05-44.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/round-light-foil.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/round-light-softbox-behind-surface.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/round-light-softbox-direct-on-camera.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/IR light tests/round-light-spotlight-behind-surface.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/morph-silhouette/morph-silhouette_AME/Morph to person.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/morph-silhouette/morph-to-circle.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/morph-silhouette/Morph-to-person-move.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/morph-silhouette/Morph-to-person.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/other stuff/demo5.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/other stuff/kinect-rigidbody-2019-12-04-16.25.11.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/other stuff/kinect_video.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Process/sg-ir-light-test.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Process/shadow-wall-v2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/RunwayML/OPENRNDR-2019-12-18-14.35.36.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-10-17.05.37.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-14-15.37.15.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-15-17.30.09.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-16-16.30.00.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-17-11.00.10.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-18-09.47.15.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-25-15.06.54.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-28-14.39.51 - moving kinect.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/selection/OPENRNDR-2019-10-28-17.00.27 - moving 2webcam.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/highres-view2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/lowres-v1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/lowres-v2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/lowres-v3.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/lowres-v4.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/lowres-v5.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/lowres-v6.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/lowres-v7.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/render-direction_field-view1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/render-direction_field-view2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/shadow-match-only.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/shadow-merge.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/all renders/shadow-only-match-white.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/cinema4d-shadow/shadow-left/shadow-left.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/cinema4d-shadow/shadow-left.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/cinema4d-shadow/shadow-merge.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/cinema4d-shadow/shadow-right/shadow-right.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/cinema4d-shadow/shadow-right.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/data/vid/kinect-depth.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/data/vid/kinect-rigidbody.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/data/vid/shadow-left.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/data/vid/shadow-right.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/data/vid/shadow-wall-v2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/data/vid/shadow-wall.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-02-11.20.19.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-02-12.33.36.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-02-15.23.15.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-02-15.43.42.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-10.32.05.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.25.18.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.28.35.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.29.46.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.32.31.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.38.09.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.39.50.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.44.48.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.45.39.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.46.13.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.46.50.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.47.25.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/solid-geographies_v2/video/OPENRNDR-2019-12-10-11.48.02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Export/1st-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Export/2nd-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Export/3rd-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Export/4th-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/20170914_163656.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/20170914_164116.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/3d.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/67877025_122647318717691_7704668344677749555_n.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/BinaryTree001.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/BinaryTree004.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Buchmesse Horizon panorama.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/CameraPotura_DocumentationV1.1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/CameraPotura_DocumentationV1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/capture-scan-stippled.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/capture-scan.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/dia-2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/ex_pose.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/GoodGov #5.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Hyperlocator.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Impression of Horizon panorama for the Buchmesse 2016.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/ingolwood-dash-anim.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/letter.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/lukas_2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/machinic-low.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/neutral.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/newyork-2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/omsetype.co-1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/omsetype.co.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/OPENRNDR web tint.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/OPENRNDR.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/record.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/RNDR — AUTONOW Render.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/rndr-motion-experiments-720p.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/RNDR-posingfragment.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/routes-4a.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Sacaning process 1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Slit scan demo.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/test.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/test3-009.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Type-Dynamics.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/UNCODE_document_2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/VideoStippler-2019-08-07-16.54.43.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/VideoStippler-2019-08-07-17.34.17.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Visualization of machine learning process of 3 million words.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Vlisco textile animation.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/waves.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Willem II passage.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/experiment and showreel.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/experiment and showreel_v2+description.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/experiment and showreel_v2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/live_coding_OPENRNDR_DDW.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/prev_openrndr-ddw-1st-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/prev_openrndr-ddw-2nd-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/prev_openrndr-ddw-3rd-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/prev_openrndr-ddw-4th-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/prev_openrndr-ddw-5th-cut.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/workshop+description.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Export/workshop.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/100 one hour commutes to the center of the city.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/1282813128.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/49135203_351858715367288_6083936846843215872_n.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/61910925_429920327800071_4145565720442306560_n.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/64212843_1112988848893039_3634520541282435072_n.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/69784194_466469990869890_8186958395014808797_n.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/71142054_421356775174058_653841778679454744_n.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/big-tsne-1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/BinaryTree003-2018-10-30-20.28.01.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/BinaryTree004.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/BinaryTree006-2018-10-31-10.41.02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/BinaryTree007-2018-10-31-11.22.08.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/capture-GridAgents2Kt-0046.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/capture-SVGAnimationKt-0006.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/cities.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/columns.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/DataViz007-2018-07-31-15.17.32.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/ddf-10-a.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/ddf-6.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/drawer-overview.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/5c-03.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/BinaryTree003-2018-10-30-20.28.01.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/BinaryTree006-2018-10-31-10.37.16.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/dnky-005.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/hush.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/image-search.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/irb-02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/m-001.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/m-002.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2018-12-01-16.48.09.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2018-12-14-23.32.05.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2018-12-14-23.50.08.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2018-12-15-19.31.57.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2019-01-10-13.07.05.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2019-01-10-14.13.47.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2019-07-30-23.36.45.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2019-08-21-15.00.27.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2019-09-21-18.12.00.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/OPENRNDR-2019-09-22-01.22.11.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/silo-06.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/strap.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/edwin/transformer-3.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/ex_pose.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/facade-2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/fidget-2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/form.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/image-search.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/instagram.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/Kazik.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/loop-text.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/Mondrian_directions.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/MondrianBBW.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/newfiles/demo4.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/newfiles/OPENRNDR-2019-10-03-18.44.40.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/newfiles/OPENRNDR-2019-10-03-23.14.11.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/newfiles/tip-scan-02-striped-2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/newfiles/tip-scan-03-scanned-6.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/Packaroni__test01.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/program$1-2019-03-13-14.19.00.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/rm-03.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/Rolling in the deep Done.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/Sequence 01_1.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/span-2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/span.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/spherefield-02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/SPORE_01.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/SPORE_02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/SPORE_03.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/SPORE_04.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/SPORE_05.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/test.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/tumo02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/waves-2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/word-colors.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/word-embedding-slow.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/word-list.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/Buchmesse-edit-loop.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/Hyper-short.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/OpenHighwayExport-Trimmed.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/RNDR-posingfragment.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/Type-Dynamics - Stedelijk Museum Amsterdam.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/UNCODE/12to15 loop.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/UNCODE/UNCODE_document_2.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/WillemPassage_intro.mp4"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Health Mirror/screenrecording-door_tap.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/prototype_1.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/prototype_2.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/prototype_3.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/prototype_4.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/video screenrecordings/prototype_5.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/makropol-video/Proxies/C0013_Proxy.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Screenrecording/Proxies/Reflector-2019-12-05-16.31.26_Proxy.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/sound/Atmospheric sound/V1-0002_2010_11_16 (valossa).mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5067.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5070.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/shadowdraw/data/videos/air3.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-synchron-linear.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/cinema/camera-with-target.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/morph-silhouette/morph-every-10th-frame.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/morph-silhouette/svg-morph.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Process/human walking crazy _2.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Process/human walking crazy.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Solid Geographies/Setting/cinema4d-shadow/shadow-merge.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Comp 3.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/exportmovie.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Hyperlocator possibilities.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/LUST_physicalinterfaces.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Open Highway Drone Test.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/output.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/RNDR-posingfragment.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Screenflick Movie 30.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/silos.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Sketch for Hyperlocator.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/TELLART_WGS17_CityKit_02.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/The Blue Front.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/TYPE-DYNAMICS-2.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ Introduce OPENRNDR/Footage Video/Urban Mobility of the Future exhibition.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/3a.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/blurtext.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/Comp.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/geo-elements-1.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/Griddigger.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/halftoneflow (1).mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/marchines-cubes-test.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/results copy/IMG_6966.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/silos.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/slitbar.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/visual.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/25thhour.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/25thhourIpad_720.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/RNDR_OPENHIGHWAY_V3.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/TYPE-DYNAMICS-2 2.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/UNCODE/Comp 3.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/SHOWREEL/Untitled00337656.mov의 사본.mov"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/File from iOS (1).MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Kaspar Process/File from iOS (2).MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5066.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5071.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5072.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5073.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5074.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5075.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5078.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5135.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5136.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5137.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5138.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5139.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5140.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5210.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5211.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5212.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5214.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5215.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5216.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5217.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5218.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5219.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5220.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5221.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5222.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5223.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5224.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5225.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5226.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5227.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5228.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5229.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5230.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5231.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5232.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5233.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5234.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5235.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5236.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5237.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5238.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5239.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5242.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5243.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5244.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5245.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5246.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5247.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5248.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5249.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5250.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5258.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5259.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5260.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5261.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5262.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5263.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5264.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5265.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5266.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5269.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5272.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5275.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5278.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5281.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5284.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5285.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5286.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5287.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5288.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5289.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5290.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5291.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5292.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5293.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5294.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5297.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5300.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5301.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5302.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5303.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5304.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5305.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5306.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5307.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5309.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5310.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5311.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5312.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/IMG_5313.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/Reflector Documantaion/footage/Video RAW/MVI_2157.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5332.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5344.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5346.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5348.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5349.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5350.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5351.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5359.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5361.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/hku/IMG_5363.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/IMG_5344.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/IMG_6122.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/IMG_6972.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/IMG_6982.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/newfiles/File from iOS.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/results copy/IMG_6932.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/results copy/IMG_6938.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/results copy/IMG_6942.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/results copy/IMG_6946.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/results copy/IMG_6947.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/results copy/IMG_6950.MOV"
+  },
+  {
+    "videoPath": "/Volumes/Data HD/# Ferdinand/v_ OpenRNDR DDW/Footage Video/experiment : workshop/results copy/IMG_6958.MOV"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/kinect-rigidbody.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/internship report/reflector-process.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/OPENRNDR-2020-01-07-13.16.55.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-12.23.43.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/OPENRNDR-2020-01-07-11.32.02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-10.35.16.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-10.34.42.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-12.26.01.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-10.37.11.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-10.41.04.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-10.33.44.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-12.24.21.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-12.15.31.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-10.38.01.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-10.36.02.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-12.18.33.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-12.27.01.mp4"
+  },
+  {
+    "videoPath": "/Volumes/GoogleDrive/My Drive/Ferdinand/openrndr-workshop-kabk/video/shadeStyle-in-video-2020-01-14-12.23.11.mp4"
+  }
+]

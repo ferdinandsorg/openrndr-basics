@@ -51,8 +51,6 @@ fun main() = application {
                     drawer.shape(i.shape.transform(m))
                 }
             }
-
         }
-
     }
 }
